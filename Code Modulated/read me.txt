@@ -1,0 +1,13 @@
+To begin the application, run main.py
+The database file provided is empty, to fill the database with example data, run "Insert DB code for MM"
+
+To enter the system, create an account and log on with it's details or
+if you don't want to create an account, use the following login details:
+
+Admin
+Username: admin
+Pass: root
+
+Sales
+Username: sales
+Pass: pass
